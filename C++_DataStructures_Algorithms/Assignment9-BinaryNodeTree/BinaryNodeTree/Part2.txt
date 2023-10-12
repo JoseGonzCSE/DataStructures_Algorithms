@@ -1,0 +1,72 @@
+1.  Beginning with an empty binary search tree, what binary search tree is formed when you insert the following values in the order given?  
+Use the algorithm discussed in videos/pdfs and textbook; namely search the binary search tree for the new entry, and insert the new entry at 
+the position it would have been found.  
+
+A, B, W, J, N, T, E
+
+         A
+	 \
+	  B
+	   \
+	    W
+	    /
+	    J
+	    / \	
+	    E  N
+		\
+		T	
+
+
+
+
+
+2.  Same as question 1, but with the following values:
+
+B, T, E, A, N, W, J
+
+
+	B
+       /\
+       A T
+	/ \
+	E  W
+        \
+	N
+	/
+	J
+
+
+
+3.  What is the maximum number of nodes in a binary search tree of height 3?  4?  h?
+
+Assuming the root node is considered hight of ONE, the following max number of nodes are:
+
+Entire Tree:         For that level Specifically
+Height: 3 = 7                  Level:3=4
+Height:4 = 15                  Level:4= 8
+Height: h= 2^(h)-1              Level: h=2^(h-1)
+
+4.  In which order could you insert these values into an empty binary search tree in order to create a binary search tree with height 3?  A, B, W, J, N, T, E.  
+
+
+		J
+	       / \
+	      B   T
+	    /  \  / \
+	    A  E  N  W
+
+
+5.  Consider the binary search tree below.  
+If you start with this binary search tree, what does it look like after you insert the nodes 80, 65, 75, 45, 35, and 25 in that order?
+
+
+            60
+	/       \
+       20       70
+       /\      /   \
+      10 40    65  80
+         / \        /
+        30   50    75
+       /  \   /
+       25    35  45
+

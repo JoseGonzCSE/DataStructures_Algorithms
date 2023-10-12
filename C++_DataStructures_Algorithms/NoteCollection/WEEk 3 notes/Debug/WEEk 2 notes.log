@@ -1,0 +1,7 @@
+﻿  LinkedList.cpp
+D:\Code\C++\Semester 2\WEEk 2 notes\LinkedList\LinkedList.h(46,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\WEEk 2 notes\LinkedList\LinkedList.h(53): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+D:\Code\C++\Semester 2\WEEk 2 notes\LinkedList\LinkedList.h(51,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\WEEk 2 notes\LinkedList\LinkedList.cpp(171,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\WEEk 2 notes\LinkedList\LinkedList.cpp(189,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  WEEk 2 notes.vcxproj -> D:\Code\C++\Semester 2\WEEk 2 notes\Debug\WEEk 3 notes.exe

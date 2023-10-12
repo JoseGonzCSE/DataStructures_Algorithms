@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Code\C++\Semester 2\Assignment6\SortedListHasA\SortedListHasA.h(38,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\Assignment6\SortedListHasA\SortedListHasA.h(39): message : see reference to class template instantiation 'SortedListHasA<ItemType>' being compiled
+  Assignment6.vcxproj -> D:\Code\C++\Semester 2\Assignment6\Debug\Assignment6.exe

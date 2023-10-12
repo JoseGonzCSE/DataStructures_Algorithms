@@ -1,0 +1,22 @@
+/*
+We will begin by testing our new add function that should add nodes randomly.
+We will create three trees, each with the same inputs and the output should be different:
+Displaying item - 20
+Displaying item - 10
+Displaying item - 40
+Displaying item - 30
+
+Second Tree:
+Displaying item - 30
+Displaying item - 40
+Displaying item - 10
+Displaying item - 20
+
+Third Tree:
+Displaying item - 30
+Displaying item - 10
+Displaying item - 20
+Displaying item - 40
+
+
+*/

@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Code\C++\Semester 2\Assignment9\BinaryNodeTree\BinaryTreeInterface.h(64,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\Assignment9\BinaryNodeTree\BinaryTreeInterface.h(78): message : see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+D:\Code\C++\Semester 2\Assignment9\BinaryNodeTree\BinaryNodeTree.h(83,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Code\C++\Semester 2\Assignment9\BinaryNodeTree\BinaryNodeTree.h(98): message : see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+D:\Code\C++\Semester 2\Assignment9\BinaryNodeTree\BinaryNodeTree.h(88,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Assignment9.vcxproj -> D:\Code\C++\Semester 2\Assignment9\Debug\Assignment9.exe

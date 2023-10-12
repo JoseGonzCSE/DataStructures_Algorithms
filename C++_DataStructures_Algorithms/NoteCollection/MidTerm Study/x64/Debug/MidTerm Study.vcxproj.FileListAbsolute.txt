@@ -1,0 +1,2 @@
+D:\Code\C++\Semester 2\MidTerm Study\x64\Debug\MidTerm Study.exe
+D:\Code\C++\Semester 2\MidTerm Study\x64\Debug\MidTerm Study.pdb

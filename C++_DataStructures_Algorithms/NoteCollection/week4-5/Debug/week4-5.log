@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Code\C++\Semester 2\week4-5\Source.cpp(267,14): warning C4552: '+': result of expression not used
+D:\Code\C++\Semester 2\week4-5\Source.cpp(280): message : see reference to function template instantiation 'void merge<ItemType>(ItemType [],int,int,int)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+D:\Code\C++\Semester 2\week4-5\Source.cpp(359): message : see reference to function template instantiation 'void mergeSort<int>(ItemType [],int,int)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+  week4-5.vcxproj -> D:\Code\C++\Semester 2\week4-5\Debug\week4-5.exe
